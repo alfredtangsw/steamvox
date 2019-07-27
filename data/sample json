@@ -1,0 +1,22 @@
+{"reviews":
+  {"51161735":
+    {"recommendationid": "51161735",
+    "author":
+      {"steamid": "76561198300203211",
+      "num_games_owned": 33,
+      "num_reviews": 5,
+      "playtime_forever": 176,
+      "playtime_last_two_weeks": 0,
+      "last_played": 1546029838},
+    "language": "french",
+    "review": "Hidden in plain sight c'est un peu le jeu parfait pour s'amuser entre amis ( localement ) \n\nIl n'a certes pas \u00e9t\u00e9 pens\u00e9 pour de longues sessions mais on s'y amuse vraiment dans la mesure ou le jeu n'est aucunement\nprise de t\u00eate ;)\n\nUne petite perle qui tient son r\u00f4le de party game pour des sessions entre potes.",
+    "timestamp_created": 1560195247,
+    "timestamp_updated": 1560195247,
+    "voted_up": true,
+    "votes_up": 0,
+    "votes_funny": 0,
+    "weighted_vote_score": 0,
+    "comment_count": 0,
+    "steam_purchase": true,
+    "received_for_free": false,
+    "written_during_early_access": false}
