@@ -78,3 +78,10 @@ Performance issues:
 2. Code may still be heavy to read. 
     - Many cells were converted into more efficient forms (e.g. converting into for loops, converting some of those into functions)
     - Will explore further optimisation
+
+# References
+1. DoctorSnapshot by nuwapi @ https://github.com/nuwapi/DoctorSnapshot/tree/master/src
+2. steamreviews scraper by woctezuma @ https://github.com/woctezuma/download-steam-reviews
+3. expandContradictions by nealrs @ https://gist.github.com/nealrs/96342d8231b75cf4bb82
+4. syntok by fnl @ https://github.com/fnl/syntok
+5. Guide to Topic Modelling with Gensim @ https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
