@@ -81,6 +81,7 @@ Performance issues:
 
 # References
 1. DoctorSnapshot by nuwapi @ https://github.com/nuwapi/DoctorSnapshot/tree/master/src
+    - https://blog.insightdatascience.com/topic-modeling-and-sentiment-analysis-to-pinpoint-the-perfect-doctor-6a8fdd4a3904
 2. steamreviews scraper by woctezuma @ https://github.com/woctezuma/download-steam-reviews
 3. expandContradictions by nealrs @ https://gist.github.com/nealrs/96342d8231b75cf4bb82
 4. syntok by fnl @ https://github.com/fnl/syntok
