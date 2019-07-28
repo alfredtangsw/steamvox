@@ -22,17 +22,15 @@ noun: vox; plural noun: voxes
 (Credit to Google-sensei for this definition)
 
 # Why SteamVox Matters
-When I was in a sales optimisation role in the video game industry, my team encountered a problem that we were not equipped to answer.
+When I was in a sales optimisation role in the video game industry, my team encountered a problem that we were not fully equipped to answer.
 
-Whenever new content was released, product managers wanted to know how players responded to the update. 
+Whenever new content was released, product managers wanted to know how players responded to the update. The best we could do without the power of data science was to read a small number of reviews and talk to veteran players to get a rough sense of player sentiment.
 
-The best we could do without the power of data science was to read a small number of reviews and talk to veteran players to get a rough sense of player sentiment.
+There are 2 problems here:
 
-The problem is, this manually gathered data does not necessarily represent the whole player demographic. (e.g. 30 opinions can't speak for 1 million people!)
-
-On the other hand, you can't spend 20.83 working days reading 10,000 reviews at the rate of 1 per minute with 0 failures. (Yes, I calculated.) That's a whole month of working hours spent on labelling.
-
-By the time you finish compiling the info manually and make a pivot table in Excel, your information could be outdated. Employees also have better things to do than just sit around reading and labelling Excel cells. 
+1. This manually gathered data does not necessarily represent the whole player demographic. 
+2. Employees can't each spend 20.83 working days reading 10,000 reviews at the rate of 1 per minute with 0 failures. That's a whole month of working hours spent on labelling! (I like using data and estimations to put things in perspective.)
+3. By the time you finish compiling the data manually and make a pivot table in Excel, your information could be outdated. 
 
 I made SteamVox to solve precisely this business problem. Instead of spending 21 days reading 10,000 reviews, you could spend 2 hours tweaking settings and training the model, then get your output.
 
