@@ -8,7 +8,7 @@ I intend to make this tool generally applicable across Steam games.
 # Etymology
 
 #### Vox Populi, Vox Dei
-The voice of the people is the voice of God.
+The voice of the people is the voice of God. In order to sell to your customers, you need to know what they want and whether they like what you are offering.
 
 #### Steam
 
