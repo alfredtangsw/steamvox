@@ -1,6 +1,9 @@
 # SteamVox
 SteamVox (WIP) is a tool for getting snapshots of what players are saying about your video game! 
-(As of Jul/Aug 2019, this tool is for Total War: Three Kingdoms only, as a proof of concept... but stay tuned for more updates!)
+
+As of Jul/Aug 2019, this tool is for Total War: Three Kingdoms only, as a proof of concept... but stay tuned for more updates!
+
+I intend to make this tool generally applicable across Steam games.
 
 # Etymology
 
@@ -10,7 +13,6 @@ The voice of the people is the voice of God.
 #### Steam
 
 An (app store for video games)[https://store.steampowered.com/] -- the biggest in the world!
-
 
 #### Vox
 noun
