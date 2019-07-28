@@ -21,12 +21,32 @@ noun: vox; plural noun: voxes
 "his matinee-idol vox"
 (Credit to Google-sensei for this definition)
 
+# Why SteamVox Matters
+When I was in a sales optimisation role in the video game industry, my team encountered a problem that we were not equipped to answer.
+
+Whenever new content was released, product managers wanted to know how players responded to the update. 
+
+The best we could do without the power of data science was to read a small number of reviews and talk to veteran players to get a rough sense of player sentiment.
+
+The problem is, this manually gathered data does not necessarily represent the whole player demographic. (e.g. 30 opinions can't speak for 1 million people!)
+
+On the other hand, you can't spend 20.83 working days reading 10,000 reviews at the rate of 1 per minute with 0 failures. (Yes, I calculated.) That's a whole month of working hours spent on labelling.
+
+By the time you finish compiling the info manually and make a pivot table in Excel, your information could be outdated. Employees also have better things to do than just sit around reading and labelling Excel cells. 
+
+I made SteamVox to solve precisely this business problem. Instead of spending 21 days reading 10,000 reviews, you could spend 2 hours tweaking settings and training the model, then get your output.
+
+I aim to further build SteamVox so that it can get you information within minutes, and not just for 1 video game. Stay tuned!
+
+
 # SteamVox v0.1 features
 1. Scrapes reviews for your chosen game (Credit to https://github.com/woctezuma/download-steam-reviews! Thanks so much for all those discussions and upgrades.)
 2. Cleans unhelpful reviews out of the dataset
 3. Breaks usable reviews into paragraphs, then assigns topics (game features) and sentiment scores
 4. Provides snapshot of player sentiment per game feature
 5. Model identifies topics correctly ~85% of the time 
+6. Trained on 3600+ usable Steam reviews from Total War: Three Kingdoms (filtered from 8000+ reviews)
+    - Doesn't sound like a lot, does it? But it contains over 100,000 words! (For reference, the New Testament of the Bible contains ~(186,400 words)[https://wordcounter.net/blog/2016/02/21/101241_how-many-pages-are-there-in-the-bible.html])
 
 
 ### More room for improvement
