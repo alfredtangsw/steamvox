@@ -12,7 +12,7 @@ The voice of the people is the voice of God. In order to sell to your customers,
 
 #### Steam
 
-An (app store for video games)[https://store.steampowered.com/] -- the biggest in the world!
+An [app store for video games](https://store.steampowered.com/) -- the biggest in the world!
 
 #### Vox
 noun
