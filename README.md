@@ -15,10 +15,10 @@ The voice of the people is the voice of God. In order to sell to your customers,
 An [app store for video games](https://store.steampowered.com/) -- the biggest in the world!
 
 #### Vox
-noun
-noun: vox; plural noun: voxes
-(especially in music journalism) vocals; voice.
-"his matinee-idol vox"
+noun </br>
+noun: vox; plural noun: voxes </br>
+(especially in music journalism) vocals; voice. </br>
+"his matinee-idol vox" </br>
 (Credit to Google-sensei for this definition)
 
 # Why SteamVox Matters
