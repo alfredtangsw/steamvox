@@ -45,7 +45,7 @@ I aim to further build SteamVox so that it can get you information within minute
 5. Model identifies topics correctly ~85% of the time 
 6. Trained on 3600+ usable Steam reviews from Total War: Three Kingdoms (filtered from 8000+ reviews)
     - Doesn't sound like a lot, does it? But it contains over 100,000 words! 
-    - (For reference, the New Testament of the Bible contains ~(186,400 words)[https://wordcounter.net/blog/2016/02/21/101241_how-many-pages-are-there-in-the-bible.html])
+    - (For reference, the New Testament of the Bible contains ~[186,400 words](https://wordcounter.net/blog/2016/02/21/101241_how-many-pages-are-there-in-the-bible.html))
 
 
 ### More room for improvement
