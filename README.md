@@ -4,6 +4,10 @@ SteamVox (working proof of concept) is a tool for getting snapshots of what play
 As of Jul/Aug 2019, this tool is for Total War: Three Kingdoms only, as a proof of concept... but stay tuned for more updates!
 
 I intend to make this tool generally applicable across Steam games.
+# Full technical writeup
+The full writeup is [available on Medium.](https://medium.com/@tangshuweialfred/steamvox-topic-modelling-sentiment-analysis-technical-adc5b88f71a0)
+
+Summarised version coming soon!
 
 # Etymology
 
