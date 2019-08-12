@@ -33,12 +33,12 @@ Whenever new content was released, product managers wanted to know how players r
 There are 2 problems here:
 
 1. This manually gathered data does not necessarily represent the whole player demographic. 
-2. Employees can't each spend 20.83 working days reading 10,000 reviews at the rate of 1 per minute with 0 failures. That's a whole month of working hours spent on labelling! (I like using data and estimations to put things in perspective.)
+2. Employees can't each spend 20.83 working days reading 10,000 reviews at the rate of 1 per minute with 0 failures. That's a whole month of working hours spent on labelling!
 3. By the time you finish compiling the data manually and make a pivot table in Excel, your information could be outdated. 
 
 I made SteamVox to solve precisely this business problem. Instead of spending 21 days reading 10,000 reviews, you could spend 2 hours tweaking settings and training the model, then get your output.
 
-I aim to further build SteamVox so that it can get you information within minutes, and not just for 1 video game. Stay tuned!
+I aim to further develop SteamVox so that it can get you information within minutes, and not just for 1 video game. Stay tuned!
 
 
 # SteamVox v0.1 features
